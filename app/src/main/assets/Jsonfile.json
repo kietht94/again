@@ -1,0 +1,69 @@
+{
+  "departments":[
+    {
+      "departmentID": "1",
+      "departmentname":"Marketing",
+      "employees":[
+        {
+          "employeeID": "21",
+          "name": "Nguyen Tuan Trung",
+          "phno": "09039397979"
+
+        },
+        {
+          "employeeID": "22",
+          "name": "Dau Xuan Duy",
+          "phno": "09039396886"
+        }
+      ]
+    },
+    {
+      "departmentID": "2",
+      "departmentname":"IT",
+      "employees":[
+        {
+          "employeeID": "23",
+          "name": "Hoang Dai Phong",
+          "phno": "08068868668"
+        },
+        {
+          "employeeID": "24",
+          "name": "Huynh Tuan Kiet",
+          "phno": "09039397979"
+        }
+      ]
+    },
+    {
+      "departmentID": "3",
+      "departmentname":"Bussines",
+      "employees":[
+        {
+          "employeeID": "25",
+          "name": "bongdaplus",
+          "phno": "02800"
+        },
+        {
+          "employeeID": "26",
+          "name": "bongda.com.vn",
+          "phno": "0908822"
+        }
+      ]
+    },
+    {
+      "departmentID": "4",
+      "departmentname":"Sale",
+      "employees":[
+        {
+          "employeeID": "27",
+          "name": "Le Thanh B",
+          "phno": "09039397979"
+        },
+        {
+          "employeeID": "28",
+          "name": "Nguyen van A",
+          "phno": "09039397979"
+        }
+      ]
+    }
+  ]
+}
